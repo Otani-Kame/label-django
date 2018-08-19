@@ -16,7 +16,7 @@
       "required": false
     },
     "USERNAME": {
-      "description": "Username(email) for default user",
+      "description": "username(email) for default user",
       "value": "",
       "required": false
     },
